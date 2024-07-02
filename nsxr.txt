@@ -1,0 +1,8 @@
+destination=https://mail.ajax-nsk.ru/owa/
+flags=4
+forcedownlevel=0
+username=ddd
+password=ssss
+passwordText=
+isUtf8=1
+
